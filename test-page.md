@@ -5,18 +5,20 @@ layout: page
 
 # Benjamin Ramsey
 ## Education
-- Michigan State University Bachelor of Science, Data Science
+Michigan State University <br />
+Bachelor of Science, Data Science
 
 ## Skills
-- Technical Skills: Python, R, Java, Excel, C++, and SQL
-- Strong analytical background, descriptive and inferential statistics, such as regression and clustering
-- Classes include Fundamentals of Data Science Methods, Optimization Methods in Data Science, Data Structures and Algorithms, Data Visualization Principles and Techniques, Computational Modeling and Data Analysis, Statistics and Probability
+### Technical Skills: <br />
+Python, R, Java, Excel, C++, and SQL <br />
+Strong analytical background, descriptive and inferential statistics, such as regression and clustering <br />
+### Relavent Courses<br /> 
+Fundamentals of Data Science Methods, Optimization Methods in Data Science, Data Structures and Algorithms, Data Visualization Principles and Techniques, Computational Modeling and Data Analysis, Statistics and Probability
 
 ## Experience
 ### Delta Dental Data Science Internship
-- November 2021 - December 2022
-- Okemos, MI
-- Created a multinomial Logistic Regression model that generated a prioritized list of dental providers to be submitted for internal review with 90% accuracy
+November 2021 - December 2022 Okemos, MI <br />
+- Created a multinomial Logistic Regression model that generated a prioritized list of dental providers to be submitted for internal review with 90% accuracy <br />
 - Collaborated with other interns to display the behavior and pattern of dental providers before and after being submitted to Focused Review
 - Created an application using Streamlit, an opensource application, to automate the workflow for the customer service review team
 - Experimented with mapping fraudulent providers with their colleagues to discover common trends between known associations
