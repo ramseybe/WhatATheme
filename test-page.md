@@ -1,29 +1,37 @@
 ---
-title: Test Page
+title: Resume
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Benjamin Ramsey
+## Education
+- Michigan State University Bachelor of Science, Data Science
 
-[This is a link](#)
+## Skills
+- Technical Skills: Python, R, Java, Excel, C++, and SQL
+- Strong analytical background, descriptive and inferential statistics, such as regression and clustering
+- Classes include Fundamentals of Data Science Methods, Optimization Methods in Data Science, Data Structures and Algorithms, Data Visualization Principles and Techniques, Computational Modeling and Data Analysis, Statistics and Probability
 
-> This is a blockquote
+## Experience
+### Delta Dental Data Science Internship
+- November 2021-December 2022
+- Okemos, MI
+- Created a multinomial Logistic Regression model that generated a prioritized list of dental providers to be submitted for internal review with 90% accuracy
+- Collaborated with other interns to display the behavior and pattern of dental providers before and after being submitted to Focused Review
+- Created an application using Streamlit, an opensource application, to automate the workflow for the customer service review team
+- Experimented with mapping fraudulent providers with their colleagues to discover common trends between known associations
+- Explored, visualized, and communicated insights from real business data
 
-`This is code`
+### Undergraduate Learning Assistant
+- June 2021-Current
+- Michigan State University, Computer Science and Engineering | East Lansing, MI
+- Instructed classes of 30 students by introducing them to the fundamentals of computer science using Python
+- Built supplemental lesson plans to further develop the students' knowledge and understanding of course content
+- Assisted professors with identifying difficult concepts for students and how to further enrich the course content
+- Learned how to explain technical and complicated concepts to a non-technical audience
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+### Statistics in the Community
+- January 2021-April 2021
+- Michigan State University | East Lansing, MI
+- Cleaned datasets by removing unnecessary and repeated variables, improving group productivity and organization
+- Created computer automated workflows to manipulate, visualize and analyze data to obtain clear trends for local non-profit organizations to assist in critical business decisions
