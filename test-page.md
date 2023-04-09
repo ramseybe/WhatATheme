@@ -14,7 +14,7 @@ layout: page
 
 ## Experience
 ### Delta Dental Data Science Internship
-- November 2021-December 2022
+- November 2021 - December 2022
 - Okemos, MI
 - Created a multinomial Logistic Regression model that generated a prioritized list of dental providers to be submitted for internal review with 90% accuracy
 - Collaborated with other interns to display the behavior and pattern of dental providers before and after being submitted to Focused Review
