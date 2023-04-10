@@ -13,7 +13,7 @@ Bachelor of Science, Data Science
 Python, R, Java, Excel, C++, and SQL <br />
 Strong analytical background, descriptive and inferential statistics, such as regression and clustering <br />
 ### Relavent Courses<br /> 
-Fundamentals of Data Science Methods, Optimization Methods in Data Science, Data Structures and Algorithms, Data Visualization Principles and Techniques, Computational Modeling and Data Analysis, Statistics and Probability
+Fundamentals of Data Science Methods, Optimization Methods in Data Science, Data Structures and Algorithms,<br /> Data Visualization Principles and Techniques, Computational Modeling and Data Analysis, Statistics and Probability
 
 ## Experience
 ### Delta Dental Data Science Internship
